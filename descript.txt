@@ -1,0 +1,8 @@
+charset,Shift_JIS
+name,’C”Ni¬j
+id,zoomout_dra
+type,shell
+
+craftmanw,‚µ‚à‚Ó‚İ
+
+seriko.use_self_alpha,1

@@ -1,0 +1,4 @@
+charset,Shift_JIS
+name,’C”Ni¬j
+type,shell
+directory,zoomout_dra
